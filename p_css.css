@@ -1,0 +1,134 @@
+
+body {
+    background-image: url("https://www.comunidadbaratz.com/wp-content/uploads/La-preservacion-documental-al-alcance-de-Archivos-gracias-a-Albala-y-MediaSearch.jpg");
+    font-family: "Times New Roman";
+    text-align: justify;
+}
+
+#but {
+    margin-top: 10px;
+    float: right;
+    width: 170px;
+}
+
+#derecha{
+    float: left;
+    width: 350px;
+    background-color: #4269a8;
+}
+
+#container {
+    width: 400px;
+    height: 340px;
+    background: #4e4d4d;
+    box-shadow: 8px 14px 39px #000 ;
+    margin: auto;
+    margin-top: 300px;
+    padding: 20px 30px;
+}
+
+#descargar {
+
+    margin-left: 15px;
+    margin-bottom: 3px;
+}
+
+#docc {
+    margin-left: 400px;
+    color : white;
+    font-size: 18px;
+}
+
+#documento {
+    height: 100%;
+	max-width: 700px;
+	margin-left: 40px;
+	background-color: #fafaf5;    
+    box-shadow: 0 2px 5px #555;
+    padding-left: 10px;
+    padding-right: 10px;
+    display: inline-block;
+}
+
+#el{
+    color:#630a00;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+#elim{
+    float: right;
+    border-color: black;
+    border-width: 2px;
+    background-color: #4269a8;
+    border-bottom: double;
+}
+
+#herramientas {
+    float:right;
+    background-color: #010305;
+    max-width: 350px;   
+    padding-left: 10px;
+    padding-right: 10px;
+} 
+
+#tit{
+    padding-left: 40px;
+    float: left;
+    width: 50px;
+    color: rgb(12, 10, 10);
+}
+
+#titop {
+    color: white;
+}
+
+.boton{
+    background-color: #fcba03;
+    margin-left: 15px;
+    margin-bottom: 20px;
+    width: 60px;
+}
+
+.element {
+    float: left;
+    position: relative;
+    width: 2000px;
+    height: 100%;
+}
+.header {
+    font-size: 35px;
+}
+
+.we {
+    background-color: #fafaf5;
+    border-radius: 3px;
+    border-style: ridge;
+    padding:7px;
+}
+
+.XDA{
+    background-color: #fcba03;
+    text-shadow: #4269a8;
+    float: left;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+body#boda {
+    background-image: url("http://4.bp.blogspot.com/-AzLa2t0cnoE/UwTcQA6L_8I/AAAAAAAAffw/RZ63E3UMfpA/s1600/Descargar%2BIncreibles%2Bfondos%2Babstractos%2BHD%2B%252528288%252529.jpg");
+    font-family: "Times New Roman";
+    text-align: justify;
+}
+
+.neim {
+    width: 100%;
+    border: 1;
+    margin-bottom: 15px;
+}
+
+.pass {
+    width: 100%;
+    border: 1;
+    margin-bottom: 15px;
+}

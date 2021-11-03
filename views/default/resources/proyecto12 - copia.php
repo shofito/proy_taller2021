@@ -3,10 +3,7 @@
    <head>
     <title>Proyecto</title>
 		<meta charset="utf-8" />
-		<link href="p_css.css" rel="stylesheet" />
-<script src="jquery351.js"></script>
-<script src="jspdf.min.js"></script>
-<script src="FileSaver.js"></script>
+
     <script>
 
 function allowDrop(ev) {
